@@ -9,4 +9,6 @@
 <p>JDK e JRE 8 </p>
 <p>Bootstrap 4</p>
 <p>JQuery</p>
-<p>JQuery Mask</p>   
+<p>JQuery Mask</p>
+<p>Eclipse IDE </p>
+<p>Intellij IDE</p>
