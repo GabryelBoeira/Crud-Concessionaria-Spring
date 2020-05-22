@@ -1,0 +1,28 @@
+<body>
+	<c:if test="${not empty message}">
+	 	<div class="alert alert-${status} alert-dismissible fade show" role="alert">
+		  	${message}
+		  	<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+		    	<span aria-hidden="true">&times;</span>
+		  	</button>
+		</div>
+	</c:if>
+	<header>	
+	  <nav class="navbar navbar-dark navbar-static-top bg-dark">
+		  <a class="navbar-brand" href="/" >Inicio</a>
+	    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+	      <span class="navbar-toggler-icon"></span>
+	    </button>
+	    
+	    <div class="collapse navbar-collapse" id="navbarCollapse">
+	    	<ul class="navbar-nav mr-auto">
+		       	<li class="nav-item">
+			       <a class="nav-link" href="/add_vehicle">Adicionar Veiculos </a>
+		      	</li>
+		        <li class="nav-item">
+			    	<a class="nav-link" href="/list_vehicle">Lista de todos veiculos </a>
+			  	</li>		  	 
+	      	</ul>     
+	    </div>
+	  </nav>
+	</header>
