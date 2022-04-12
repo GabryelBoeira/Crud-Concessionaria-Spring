@@ -1,14 +1,13 @@
-# Crud-Concessionaria-Spring
+<h1 align="center"> CRUD Concessionária Spring </h1>
 
-<p>Projeto Maven</p>
-<p>Spring Framework</p>
-<P>Spring MVC</p>
-<p>Spring boot - server Apache Tomcat</p>
-<p>Spring JPA</p> 
-<p>H2 DataBase</p>
-<p>JDK e JRE 8 </p>
-<p>Bootstrap 4</p>
-<p>JQuery</p>
-<p>JQuery Mask</p>
-<p>Eclipse IDE </p>
-<p>Intellij IDE</p>
+## Configurações utilizadas:
+
+   - Projeto Maven
+   - Spring boot - server Apache Tomcat
+   - Spring JPA 
+   - H2 DataBase
+   - JDK e JRE 8 
+   - Bootstrap 4
+   - JQuery
+   - JQuery Mask
+   - Eclipse IDE, Intellij IDE
